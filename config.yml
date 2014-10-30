@@ -1,0 +1,5 @@
+:googleanalytics:
+  :service_account_email: 'account_email'
+  :key_file: 'key_file relative path from config.yml'
+  :key_secret: 'key_secret'
+  :profiles: [ {name: 'name1', group: 'Group1',    id: 'xxxxx'}, {name: 'name2', group: 'Group2', id: 'xxxxxx'} ]
